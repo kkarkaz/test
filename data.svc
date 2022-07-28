@@ -1,6 +1,5 @@
-<feed xml:base="https://demos.telerik.com/kendo-ui/service/Northwind.svc/" xmlns:d="http://schemas.microsoft.com/ado/2007/08/dataservices" xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata" xmlns="http://www.w3.org/2005/Atom">
+<feed>
 <entry>
-    <id>https://demos.telerik.com/kendo-ui/service/Northwind.svc/Orders(10249)</id>
     <title type="text"></title>
     <updated>2022-07-28T10:41:00Z</updated>
     <author>
